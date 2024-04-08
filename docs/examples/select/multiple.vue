@@ -51,7 +51,7 @@
     </el-select>
   </div>
   <div class="m-4">
-    <p>use max-collapse-tags</p>
+    <p>use max-collapse-tags1</p>
     <el-select
       v-model="value4"
       multiple
